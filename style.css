@@ -13,17 +13,17 @@
 }
 
 @font-face {
-  font-family: 'Noe';
+  font-family: 'Noe Text';
   font-style: normal;
-  src: url(fonts/Noe-Display-Bold.woff2) format('woff2'),
-       url(fonts/Noe-Display-Bold.woff) format('woff');
+  src: url(fonts/Noe-Text-Black.woff2) format('woff2'),
+       url(fonts/Noe-Text-Black.woff) format('woff');
 }
 
 @font-face {
-  font-family: 'Noe';
+  font-family: 'Noe Text';
   font-style: italic;
-  src: url(fonts/Noe-Display-Bold-Italic.woff2) format('woff2'),
-       url(fonts/Noe-Display-Bold-Italic.woff) format('woff');
+  src: url(fonts/Noe-Text-Black-Italic.woff2) format('woff2'),
+       url(fonts/Noe-Text-Black-Italic.woff) format('woff');
 }
 
 @font-face {
